@@ -29,4 +29,6 @@ If you someday use my theme, please put a sunglasses 😜
 <a href="https://www.twitch.tv/ggotha" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733577.svg"></a>
 </div>
 
+<br>
+
 "Maybe you weren't born with talent, but insistence is a requirement"
