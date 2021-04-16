@@ -7,7 +7,7 @@ _19 years old_ <br>
 _Living in São Paulo, Brazil 🇧🇷._ <br>
 _In the transition to vim editor_
 
-### 😃 Fun fact
+### 😃 Funny Tip
 
 If you someday use my theme, please put a sunglasses 😜
 
