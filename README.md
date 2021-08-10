@@ -9,7 +9,7 @@ _In the transition to vim editor_
 
 ### 😃 Funny Tip
 
-If you someday use my theme, please put a sunglasses 😜
+If you someday use my visual studio code theme, please put a sunglasses 😜
 
 ### 🚀 Technologies
 
