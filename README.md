@@ -3,7 +3,7 @@
 Hi there, I'm Gustavo Gotha
 
 _Software Engineer at Brydge_ <br>
-_19 years old_ <br>
+_20 years old_ <br>
 _Living in São Paulo, Brazil 🇧🇷._ <br>
 _In the transition to vim editor_
 
