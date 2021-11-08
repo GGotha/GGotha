@@ -26,7 +26,6 @@ If you someday use my visual studio code theme, please put a sunglasses 😜
 
 <div style="display: flex;">
 <a href="https://www.linkedin.com/in/gustavo-gotha-697656148/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
-<a href="https://www.twitch.tv/ggotha" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733577.svg"></a>
 </div>
 
 <br>
