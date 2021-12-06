@@ -25,7 +25,7 @@ If you someday use my visual studio code theme, please put a sunglasses 😜
 ### 🌎 Social Media
 
 <div style="display: flex;">
-<a href="https://www.linkedin.com/in/gustavo-gotha-697656148/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
+<a href="https://www.linkedin.com/in/gustavo-gotha-697656148/" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 </div>
 
 <br>
