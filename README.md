@@ -5,7 +5,7 @@ Hi there, I'm Gustavo Gotha
 _Software Engineer at Brydge_ <br>
 _20 years old_ <br>
 _Living in São Paulo, Brazil 🇧🇷._ <br>
-_In the transition to vim editor_
+_Web3 Enthusiast_
 
 ### 😃 Funny Tip
 
