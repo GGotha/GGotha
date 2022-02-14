@@ -20,12 +20,15 @@ If you someday use my visual studio code theme, please put a sunglasses 😜
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="30" >
 <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" height="30" >
 <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" height="30">
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="30">
+<img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" height="30">
 </div>
 
 ### 🌎 Social Media
 
 <div style="display: flex;">
 <a href="https://www.linkedin.com/in/gustavo-gotha-697656148/" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href="https://medium.com/@GGotha" target="_blank"><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/medium-52-461817.png" ></a>
 </div>
 
 <br>
