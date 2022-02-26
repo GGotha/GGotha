@@ -2,7 +2,7 @@
 
 Hi there, I'm Gustavo Gotha
 
-_Software Engineer at Brydge_ <br>
+_Software Engineer at Dimensa (TOTVS | B3) <br>
 _20 years old_ <br>
 _Living in São Paulo, Brazil 🇧🇷._ <br>
 _Web3 Enthusiast_
