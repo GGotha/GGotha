@@ -18,7 +18,7 @@ If you someday use my visual studio code theme, please put a sunglasses 😜
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="30">
 <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/app_icon_512.png" height="30">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="30" >
-<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" height="30" >
+<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="30" >
 <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" height="30">
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="30">
 <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" height="30">
