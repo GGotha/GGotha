@@ -9,7 +9,7 @@ I'm currently working at Dimensa (TOTVS | B3)
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [www.gustavogotha.com.br](http://gustavogotha.com.br)
 * ✉️  You can contact me at [clashgustavo1@gmail.com](mailto:clashgustavo1@gmail.com)
-* 🚀  I'm currently working on [GymFy](http://#)
+* 🚀  I'm currently working on [GymFy](https://github.com/ggotha/gymfy)
 * 🧠  I'm learning Monorepo, GraphQL, TailwindCSS and Storybook
 * 🤝  I'm open to collaborating on Open Source Projects
 
