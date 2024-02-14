@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm currently working at Dimensa (TOTVS | B3)
+I'm currently working at Trio
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [www.gustavogotha.com.br](http://gustavogotha.com.br)
